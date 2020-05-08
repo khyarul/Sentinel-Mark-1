@@ -1,7 +1,9 @@
 # SENTINEL MARK I (PSIONIC)
-
+Feature:
 - Microcontroller used: STM32F103CBT6 (Breakout board: Maple Mini)
 - Bootloader: maple bootloader v2
+- EEPROM: external EEPROM (256 Kb)
+- Motor Encoder and Timer mode
 
 Library Arduino yang diperlukan:
 1. **extEEPROM**: https://github.com/JChristensen/extEEPROM
