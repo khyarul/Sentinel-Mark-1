@@ -1,6 +1,6 @@
 # SENTINEL MARK I (PSIONIC)
 Feature:
-- Microcontroller used: STM32F103CBT6 (Breakout board: Maple Mini)
+- Microcontroller used: STM32F103CBT6 (Breakout board: Maple Mini, 128KB Flash, 20KB SRAM)
 - Bootloader: maple bootloader v2
 - EEPROM: external EEPROM (256Kb/32KB)
 - Motor Encoder and Timer mode
