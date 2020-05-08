@@ -9,4 +9,5 @@ Library Arduino yang diperlukan:
 
 DONATE: 
   - [PAYPAL](https://www.paypal.me/sentinelcreative "PAYPAL")
-  - BNI a/n Khyarul Arham: 0718053662
+  - BNI     : 0718053662 (Khyarul Arham)
+  - Mandiri : 1130012279398 (Khyarul Arham)
