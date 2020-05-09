@@ -1,9 +1,12 @@
-# SENTINEL MARK I (PSIONIC)
+# SENTINEL MARK I (PSIONIC) - Line Follower Path Planning + Oled I2C User Interface
 Feature:
-- Microcontroller used: STM32F103CBT6 (Breakout board: Maple Mini, 128KB Flash, 20KB SRAM)
-- Bootloader: maple bootloader v2
-- EEPROM: external EEPROM (256Kb/32KB)
-- Motor Encoder (using interrupt) and Timer mode
+  - Microcontroller used: STM32F103CBT6 (Breakout board: Maple Mini, 128KB Flash, 20KB SRAM)
+  - Bootloader: maple bootloader v2
+  - EEPROM: external EEPROM (256Kb/32KB)
+  - Motor Encoder (using interrupt) and Timer mode
+  - Oled I2C LCD 128x64
+  - multiplexed sensor using CD4051
+  - UI Path Planning Configuration Menu
 
 Library Arduino yang diperlukan:
 1. **extEEPROM**: https://github.com/JChristensen/extEEPROM
